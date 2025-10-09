@@ -2,7 +2,13 @@
 
 NON - INTERACTIVE 
 
-R. Gilad-Bachrach, N. Dowlin, K. Laine, K. Lauter, M. Naehrig, and J. Wernsing, “Cryp-
+
+framework for privacy-preserving image synthesis,” in 2023 IEEE 22nd International Con-
+ference on Trust, Security and Privacy in Computing and Communications (TrustCom).
+IEEE, 2023, pp. 1119–1126.
+
+ S. Cao, H. Zhang, Y. Wang, J. Lin, F. Kong, and L. Yu, “Securegan: Secure three-party
+gan training,” in 2023 32nd International Conference on Computer Communications andR. Gilad-Bachrach, N. Dowlin, K. Laine, K. Lauter, M. Naehrig, and J. Wernsing, “Cryp-
 tonets: Applying neural networks to encrypted data with high throughput and accuracy,”
 in International conference on machine learning. PMLR, 2016, pp. 201–210.
 
@@ -186,12 +192,6 @@ former: a high performance mpc linear inference framework for transformers,” J
 Cryptographic Engineering, vol. 15, no. 1, p. 2, 2025.
 
  Yang, L. Liu, S. Fu, J.-J. Huang, and Y. Luo, “Secgan: Honest-majority maliciously 3pc
-framework for privacy-preserving image synthesis,” in 2023 IEEE 22nd International Con-
-ference on Trust, Security and Privacy in Computing and Communications (TrustCom).
-IEEE, 2023, pp. 1119–1126.
-
- S. Cao, H. Zhang, Y. Wang, J. Lin, F. Kong, and L. Yu, “Securegan: Secure three-party
-gan training,” in 2023 32nd International Conference on Computer Communications and
 Networks (ICCCN). IEEE, 2023, pp. 1–7.
  Y. Yang, K. Mu, and R. H. Deng, “Lightweight privacy-preserving gan framework for
 model training and image synthesis,” IEEE Transactions on Information Forensics and
