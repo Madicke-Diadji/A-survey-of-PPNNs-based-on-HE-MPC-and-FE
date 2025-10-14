@@ -2,7 +2,7 @@
 Privacy-preserving neural networks (PPNNs) denote architectures and protocols that
 enable the training and inference of deep learning models while guaranteeing data confi-
 dentiality through cryptographic primitives such as homomorphic encryption (HE), secure
-multi-party computation (MPC—e.g., Secret secret sharing (SSS), functional secret sharing
+multi-party computation (MPC—e.g., Secret secret sharing  (SSS), functional secret sharing
 (FSS), garbled circuits (GC), and oblivious transfer (OT)), and functional encryption (FE).
 In the current landscape—where sensitive applications in healthcare, finance, telecommuni-
 cations, and the Internet of Things require both high utility and strong data protection—the
