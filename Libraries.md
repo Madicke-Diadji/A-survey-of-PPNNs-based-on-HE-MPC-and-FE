@@ -20,21 +20,27 @@ HEAAN :
 # Multi-party Computation (MPC)
 
 ABY: https://github.com/encryptogroup/ABY
+
 EMP-Toolkit: https://github.com/emp-toolkit 
 
 
 # MPC w/ HE
+
 MP-SPDZ: https://github.com/data61/MP-SPDZ
 
 
 # Garbled Circuit (GC) 
 fancy- garbling : https://github.com/GaloisInc/fancy-garbling
+
 ABY: https://github.com/encryptogroup/ABY
 
 
 # FE IPFE / FHIPFE :
+
 FLINT : http://ﬂintlib.org 
+
 Charm : https://github.com/JHUISI/charm
+
 CiFEr:  https://github.com/fentec-project/CiFEr
 
 # FE QFE :
@@ -43,6 +49,7 @@ PBC: https://github.com/blynn/pbc
 
 
 # Others :
+
 Pycrypto: https://github.com/pycrypto/pycrypto
 
 Eigen : https://gitlab.com/libeigen/eigen.git
@@ -51,8 +58,10 @@ Eigen : https://gitlab.com/libeigen/eigen.git
 # Modèles :
 
 TensorFlow : https://github.com/tensorﬂow/privacy
+
 KANN :a lightweight library allowing efﬁcient inference and training on neural networks
 including MLP, CNN, and RNN  https://github.com/attractivechaos/kann
+
 
 
 
