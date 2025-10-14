@@ -11,8 +11,5 @@ CrypTen: https://github.com/facebookresearch/CrypTen
 Motion: https://github.com/encryptogroup/MOTION
 
 
-# Garbled Circuit (GC) 
-fancy- garbling : https://github.com/GaloisInc/fancy-garbling
-
 
 # FE
