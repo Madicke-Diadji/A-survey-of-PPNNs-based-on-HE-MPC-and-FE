@@ -1,9 +1,5 @@
-# A-survey-of-PPNNs-based-on-HE-MPC-and-FE
-This review focuses on Privacy-Preserving Neural Networks (PPNNs) based on cryptographic primitives such as Homomorphic Encryption (HE), Secure Multiparty Computation (MPC), and Functional Encryption (FE). Detailed methods and techniques are presented to enhance the cryptographic compatibility of PPNNs.
+# HOMOMORPHIC ENCRYPTION  (HE)
 
-# List of frameworks
-
-                                                                                    #HOMOMORPHIC ENCRYPTION  (HE)
 
 # NON - INTERACTIVE 
 framework for privacy-preserving image synthesis,” in 2023 IEEE 22nd International Con-
@@ -204,10 +200,7 @@ W.-j. Lu, Z. Huang, Z. Gu, J. Li, J. Liu, C. Hong, K. Ren, T. Wei, and W. Chen,
 ePrint Archive, 2023.
 
 
-                                 #Multi-Party Computation  (MPC)
-
-
-
+# Multi-Party Computation  (MPC)
 
 D. Rathee, M. Rathee, N. Kumar, N. Chandran, D. Gupta, A. Rastogi, and R. Sharma,
 “Cryptflow2: Practical 2-party secure inference,” in Proceedings of the 2020 ACM SIGSAC
@@ -359,7 +352,7 @@ graphic framework for private neural network inference,” IEEE Transactions on 
 mation Forensics and Security, vol. 18, pp. 2569–2582, 2023.
 
 
-        #Functional Encryption (FE)
+# Functional Encryption (FE)
 E. Dufour-Sans, R. Gay, and D. Pointcheval, “Reading in the dark: Classifying encrypted
 digits with functional encryption,” Cryptology ePrint Archive, 2018.                                                                        
 
