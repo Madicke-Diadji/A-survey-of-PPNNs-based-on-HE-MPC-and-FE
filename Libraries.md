@@ -26,4 +26,21 @@ EMP-Toolkit: https://github.com/emp-toolkit
 MP-SPDZ: https://github.com/data61/MP-SPDZ
 
 
+# FE IPFE / FHIPFE :
+FLINT : http://ﬂintlib.org 
+Charm : https://github.com/JHUISI/charm
+CiFEr:  https://github.com/fentec-project/CiFEr
+
+# FE QFE :
+
+PBC: https://github.com/blynn/pbc
+
+
+# Others :
+Pycrypto: https://github.com/pycrypto/pycrypto
+
+
+
+
+
 
