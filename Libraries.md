@@ -27,6 +27,11 @@ EMP-Toolkit: https://github.com/emp-toolkit
 MP-SPDZ: https://github.com/data61/MP-SPDZ
 
 
+# Garbled Circuit (GC) 
+fancy- garbling : https://github.com/GaloisInc/fancy-garbling
+ABY: https://github.com/encryptogroup/ABY
+
+
 # FE IPFE / FHIPFE :
 FLINT : http://ﬂintlib.org 
 Charm : https://github.com/JHUISI/charm
@@ -41,6 +46,14 @@ PBC: https://github.com/blynn/pbc
 Pycrypto: https://github.com/pycrypto/pycrypto
 
 Eigen : https://gitlab.com/libeigen/eigen.git
+
+
+# Modèles :
+
+TensorFlow : https://github.com/tensorﬂow/privacy
+KANN :a lightweight library allowing efﬁcient inference and training on neural networks
+including MLP, CNN, and RNN  https://github.com/attractivechaos/kann
+
 
 
 
