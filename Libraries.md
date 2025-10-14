@@ -15,6 +15,7 @@ Lattigo: https://github.com/tuneinsight/lattigo
 
 TFHE-rs from zama : https://github.com/zama-ai/tfhe-rs
 
+HEAAN : 
 
 # Multi-party Computation (MPC)
 
