@@ -21,15 +21,12 @@ HEAAN :
 
 ABY: https://github.com/encryptogroup/ABY
 
-EMP-Toolkit: https://github.com/emp-toolkit 
-
-
-# MPC w/ HE
+EMP-Toolkit: https://github.com/emp-toolkit for GC and OT
 
 MP-SPDZ: https://github.com/data61/MP-SPDZ
 
 
-# Garbled Circuit (GC) 
+## Garbled Circuit (GC) and Oblivuious transfer (OT) 
 fancy- garbling : https://github.com/GaloisInc/fancy-garbling
 
 ABY: https://github.com/encryptogroup/ABY
@@ -52,7 +49,7 @@ PBC: https://github.com/blynn/pbc
 
 Pycrypto: https://github.com/pycrypto/pycrypto
 
-Eigen : https://gitlab.com/libeigen/eigen.git
+Eigen : https://gitlab.com/libeigen/eigen.git   for  matrix operations
 
 
 # Modèles :
