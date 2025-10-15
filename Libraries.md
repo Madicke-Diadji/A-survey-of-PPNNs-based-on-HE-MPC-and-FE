@@ -56,6 +56,11 @@ KANN :a lightweight library allowing efﬁcient inference and training on neural
 including MLP, CNN, and RNN  https://github.com/attractivechaos/kann
 
 
+https://github.com/tensorﬂow/models/tree/master/ofﬁcial/r1/resnet
+
+https://github.com/pudae/tensorﬂow-densenet
+
+
 
 
 
