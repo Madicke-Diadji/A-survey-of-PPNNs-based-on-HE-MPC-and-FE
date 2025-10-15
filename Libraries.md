@@ -47,6 +47,13 @@ Pycrypto: https://github.com/pycrypto/pycrypto
 
 Eigen : https://gitlab.com/libeigen/eigen.git   for faster matrix operations
 
+CUDA: https://github.com/NVIDIA/cuda-samples
+      
+      https://github.com/NVIDIA/cuda-python
+
+CUTLASS: https://github.com/NVIDIA/cutlass for linear layers
+
+
 
 # Modèles :
 
@@ -55,10 +62,16 @@ TensorFlow : https://github.com/tensorﬂow/privacy
 KANN :a lightweight library allowing efﬁcient inference and training on neural networks
 including MLP, CNN, and RNN  https://github.com/attractivechaos/kann
 
-
 https://github.com/tensorﬂow/models/tree/master/ofﬁcial/r1/resnet
 
 https://github.com/pudae/tensorﬂow-densenet
+
+GPT-2: https://huggingface.co/gpt2.
+
+Meta Llama2 13B: https://huggingface.co/meta-llama/Llama-2-13b
+
+Meta Llama2 7B. https://huggingface.co/meta-llama/Llama-2-7b
+
 
 
 
