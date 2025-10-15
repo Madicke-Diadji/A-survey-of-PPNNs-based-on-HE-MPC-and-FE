@@ -45,7 +45,7 @@ PBC: https://github.com/blynn/pbc
 
 Pycrypto: https://github.com/pycrypto/pycrypto
 
-Eigen : https://gitlab.com/libeigen/eigen.git   for  matrix operations
+Eigen : https://gitlab.com/libeigen/eigen.git   for faster matrix operations
 
 
 # Modèles :
