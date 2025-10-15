@@ -20,5 +20,7 @@ FALCON: https://github.com/snwagh/falcon-public
 
 ML-ML:  https://github.com/NemoYuan2008/MD-ML.
 
+SecretFlow : https://github.com/secretflow/secretflow
+
 
 # FE
