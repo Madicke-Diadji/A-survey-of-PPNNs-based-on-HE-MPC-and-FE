@@ -1,12 +1,29 @@
 # HE, non interactive
 CryptoNet : https://github.com/microsoft/CryptoNets
 
+NGraph-HE : https://github.com/intel/he-transformer
+
+SHE : https://github.com/qianlou/SHE
+
+TAPAS :  https://github.com/amartya18x/tapas
+
+REDsec: https://github.com/TrustworthyComputing/REDcuFHE, 2022.
+        https://github.com/TrustworthyComputing/REDsec, 2023.
+
+AutoFHE: : https://github.com/human-analysis/AutoFHE.
+BOLT :    https://github.com/Clive2312/BOLT
+        
 # HE: interactive 
 
 Gazelle : https://github.com/chiraag/gazelle_mpc
 
 Delphi : https://github.com/mc2-project/delphi.
 
+Muse : https://github.com/mc2-project/muse
+
+GForce : https://github.com/jcjohnson/cnn-benchmarks.
+
+BumbleBee : https://github.com/AntCPLab/OpenBumbleBee.
 # MPC
 ABY3: https://github.com/ladnir/aby3
 
