@@ -44,4 +44,4 @@ SecretFlow : https://github.com/secretflow/secretflow
 
 
 # FE
-
+Seungwan Hong &al. : https://github.com/swanhong/fully-encrypted-ml/.
